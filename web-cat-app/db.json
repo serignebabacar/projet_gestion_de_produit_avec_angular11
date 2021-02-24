@@ -7,30 +7,6 @@
       "quantity": 10,
       "selected": true,
       "available": true
-    },
-    {
-      "id": 2,
-      "name": "doc",
-      "price": 1570,
-      "quantity": 20,
-      "selected": false,
-      "available": true
-    },
-    {
-      "id": 3,
-      "name": "cell phone",
-      "price": 800,
-      "quantity": 10,
-      "selected": true,
-      "available": true
-    },
-    {
-      "name": "printer",
-      "price": 500,
-      "quantity": 10,
-      "selected": true,
-      "available": true,
-      "id": 4
     }
   ]
 }
